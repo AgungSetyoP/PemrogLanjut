@@ -1,0 +1,17 @@
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\bin\Release\net6.0-windows\KonversiSuhu.exe
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\bin\Release\net6.0-windows\KonversiSuhu.deps.json
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\bin\Release\net6.0-windows\KonversiSuhu.runtimeconfig.json
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\bin\Release\net6.0-windows\KonversiSuhu.dll
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\bin\Release\net6.0-windows\KonversiSuhu.pdb
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\KonversiSuhu.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\KonversiSuhu.Form1.resources
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\KonversiSuhu.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\KonversiSuhu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\KonversiSuhu.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\KonversiSuhu.AssemblyInfo.cs
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\KonversiSuhu.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\KonversiSuhu.dll
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\refint\KonversiSuhu.dll
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\KonversiSuhu.pdb
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\KonversiSuhu.genruntimeconfig.cache
+C:\Users\acer\Downloads\PemrogJut\KonversiSuhu\KonversiSuhu\obj\Release\net6.0-windows\ref\KonversiSuhu.dll
